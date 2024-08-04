@@ -25,3 +25,5 @@ xmltodict
 statsmodels
 imblearn
 pingouin
+
+openpyxl
